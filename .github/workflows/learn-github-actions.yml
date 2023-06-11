@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 jobs:
-  Lint and Test:
+  lint-test:
 
     runs-on: ubuntu-latest
 
